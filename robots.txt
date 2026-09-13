@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace YOUR-DOMAIN.example with the real public site URL before publishing.
-Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
+Sitemap: https://hmo2006hmo-hue.github.io/mishkat-site/sitemap.xml
