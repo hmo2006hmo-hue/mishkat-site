@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace YOUR-DOMAIN.example with the real public site URL before publishing.
+Sitemap: https://YOUR-DOMAIN.example/sitemap.xml

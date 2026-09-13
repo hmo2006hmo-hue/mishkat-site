@@ -1,0 +1,8 @@
+# Mishkat website configuration
+# Replace these placeholders before publishing.
+SITE_URL=https://YOUR-DOMAIN.example/
+APK_URL=YOUR_APK_URL
+APP_VERSION=REPLACE_WITH_VERSION
+
+# For a local APK hosted inside the same website, use for example:
+# APK_URL=downloads/mishkat.apk
